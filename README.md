@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Black-Box Quant AI Engine
+# ⚡ Quant AI Engine
 
 **An institutional-grade, single-consensus Machine Learning trading dashboard built entirely in Streamlit.**
 
